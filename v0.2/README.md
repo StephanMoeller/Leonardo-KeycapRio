@@ -1,3 +1,4 @@
+
 Improvements:
 
 - Entire pcb generated in C# - allowing perfect routings in the squiggles
@@ -13,6 +14,9 @@ Next proto should have:
 - One half with and one without copper filling zones to see the difference
 - Next one should have another color just to see
 
+<img width="1920" height="1440" alt="Untitleds" src="https://github.com/user-attachments/assets/695c60cc-6352-4fac-a3b3-556864a5f44d" />
+
+<img width="1920" height="1440" alt="Untitled" src="https://github.com/user-attachments/assets/a947f308-0f3f-441a-93c1-4f3df94b860a" />
 
 <img width="1920" height="1440" alt="iemien" src="https://github.com/user-attachments/assets/e0867c81-09e3-4210-91a3-3d1c3753ea0f" />
 
