@@ -6,3 +6,5 @@ Whats new?:
 - One half with and one without copper filling zones to see the difference
 - Red pcb just to check out the color
 
+
+Case: https://cad.onshape.com/documents/c9c049fe56165f77c28b246f/w/4670134b96a6073be7e06107/e/f5c39fb7f43dace8cf0abbed
