@@ -1,18 +1,11 @@
 
-Improvements:
+Whats new?:
 
 - Entire pcb generated in C# - allowing perfect routings in the squiggles
 
 Issues:
 - Too loose fitting on the hotswap holes (center and small support holes)
 - Designed for press fit - it feels like the switches change feel when the pcb is squeezed
-
-Next proto should have: 
-- Rotated switch sockets for the pinky col to prevent the board from resting on the sockets and instead resting on the edge of the pcb
-- M3 screw holes for mounting instead of press fitting into a case
-- More tight mx footprint for better fixation of the switches
-- One half with and one without copper filling zones to see the difference
-- Next one should have another color just to see
 
 <img width="1920" height="1440" alt="Untitleds" src="https://github.com/user-attachments/assets/695c60cc-6352-4fac-a3b3-556864a5f44d" />
 
