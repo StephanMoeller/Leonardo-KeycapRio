@@ -7,4 +7,6 @@ V 0.2:
 <img width="1920" height="1440" alt="Untitleds" src="https://github.com/user-attachments/assets/5f9b4724-d631-4088-81d6-b62e4cc35a95" />
 
 v 0.3:
+- M3 screw holes for mounting instead of press fitting into a case
+- More tight mx footprint for better fixation of the switches
 <img width="2016" height="1512" alt="image2" src="https://github.com/user-attachments/assets/bbc5dba8-52a4-4b1c-a5ff-18fdc3674182" />
