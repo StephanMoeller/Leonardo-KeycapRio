@@ -10,3 +10,8 @@ v 0.3:
 - M3 screw holes for mounting instead of press fitting into a case
 - More tight mx footprint for better fixation of the switches
 <img width="2016" height="1512" alt="image2" src="https://github.com/user-attachments/assets/bbc5dba8-52a4-4b1c-a5ff-18fdc3674182" />
+
+v 0.4:
+- MiniMelf diodes
+- 1mm pcb (previous was 1.6mm)
+(picture not ready yet)
