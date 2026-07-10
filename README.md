@@ -21,3 +21,7 @@ v 0.4:
 - 2 versions: 1 for mx, 1 for choc v1 and v2 (on the same pcb)
 - All screws are on the outside now to be able to mount/unmount without having to remove any switches
 <img width="2880" height="2160" alt="image" src="https://github.com/user-attachments/assets/5c2c6e87-3667-4324-81f5-6c30968ddb0a" />
+
+v 0.5:
+- Choc only
+- Choc spaced between rows, mx spaced between columns (except inner column that is 18mm spaced)
