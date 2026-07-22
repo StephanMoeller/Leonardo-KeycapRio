@@ -25,3 +25,4 @@ v 0.4:
 v 0.5:
 - Choc only
 - Choc spaced between rows, mx spaced between columns (except inner column that is 18mm spaced)
+<img width="2880" height="2160" alt="IMG_3996" src="https://github.com/user-attachments/assets/a4d9b4bf-38c8-4b5f-b918-f95369a6c871" />
