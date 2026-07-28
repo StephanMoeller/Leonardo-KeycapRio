@@ -26,3 +26,8 @@ v 0.5:
 - Choc only
 - Choc spaced between rows, mx spaced between columns (except inner column that is 18mm spaced)
 <img width="2880" height="2160" alt="IMG_3996" src="https://github.com/user-attachments/assets/a4d9b4bf-38c8-4b5f-b918-f95369a6c871" />
+
+v 0.6
+- Extra pinky key
+- Extra thumb key
+<img width="2880" height="2160" alt="image" src="https://github.com/user-attachments/assets/41325cbb-0cab-4a53-920a-317a8896d881" /><img width="2880" height="2160" alt="image" src="https://github.com/user-attachments/assets/88c74719-0bb0-4681-afd4-35d8dfb4e45b" /><img width="2880" height="2160" alt="image" src="https://github.com/user-attachments/assets/b94dc881-1afd-4445-bff9-429cf994e515" />
