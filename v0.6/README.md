@@ -5,3 +5,4 @@ Stl: https://cad.onshape.com/documents/e97582fe212ffcc4c1cb5a1b/v/9ed9831267944d
 <img width="1920" height="1440" alt="Untitled2" src="https://github.com/user-attachments/assets/09a0a7e4-58f3-48be-921d-9a3e2ce6dca2" />
 <img width="1920" height="1440" alt="Untitled3" src="https://github.com/user-attachments/assets/06e9f76f-7345-4846-9a1c-648b40e3784e" />
 <img width="2880" height="2160" alt="image" src="https://github.com/user-attachments/assets/88c74719-0bb0-4681-afd4-35d8dfb4e45b" />
+<img width="2454" height="1009" alt="image" src="https://github.com/user-attachments/assets/adcca508-ba0a-4371-97e8-bd0b46057936" />
