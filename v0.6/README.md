@@ -5,4 +5,4 @@
 <img width="1920" height="1440" alt="Untitled3" src="https://github.com/user-attachments/assets/06e9f76f-7345-4846-9a1c-648b40e3784e" />
 
 Other keycaps, silver screws:
-<img width="2880" height="2160" alt="image" src="https://github.com/user-attachments/assets/41325cbb-0cab-4a53-920a-317a8896d881" /><img width="2880" height="2160" alt="image" src="https://github.com/user-attachments/assets/88c74719-0bb0-4681-afd4-35d8dfb4e45b" /><img width="2880" height="2160" alt="image" src="https://github.com/user-attachments/assets/b94dc881-1afd-4445-bff9-429cf994e515" />
+<img width="2880" height="2160" alt="image" src="https://github.com/user-attachments/assets/41325cbb-0cab-4a53-920a-317a8896d881" /><img width="2880" height="2160" alt="image" src="https://github.com/user-attachments/assets/88c74719-0bb0-4681-afd4-35d8dfb4e45b" />
