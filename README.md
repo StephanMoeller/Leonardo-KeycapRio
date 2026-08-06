@@ -1,3 +1,4 @@
+
 V 0.1:
 - Created with ergogen
 <img width="2048" height="1536" alt="1111" src="https://github.com/user-attachments/assets/dad2bcda-f72a-4d63-adbc-382eb3941a29" />
@@ -30,4 +31,4 @@ v 0.5:
 v 0.6
 - Extra pinky key
 - Extra thumb key
-<img width="2880" height="2160" alt="image" src="https://github.com/user-attachments/assets/88c74719-0bb0-4681-afd4-35d8dfb4e45b" />
+<img width="1920" height="1440" alt="Untitled" src="https://github.com/user-attachments/assets/e405f461-710b-47f0-ad51-b722517ee474" />
