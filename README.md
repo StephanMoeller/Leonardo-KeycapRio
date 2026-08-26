@@ -1,6 +1,7 @@
 v 0.6
 - Extra pinky key
 - Extra thumb key
+- Adjuated screw hole positions
 <img width="2880" height="2160" alt="IMG_4265" src="https://github.com/user-attachments/assets/030f9a44-528b-4bca-bac2-e76bf42a9ec4" />
 
 v 0.5:
