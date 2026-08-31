@@ -1,4 +1,8 @@
-v 0.6
+v 0.7
+- Only choc v1 (more snappy center hole)
+- Reworked center area and screws
+
+v 0.6:
 - Extra pinky key
 - Extra thumb key
 - Adjuated screw hole positions
