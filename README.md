@@ -1,7 +1,12 @@
+v 0.8 (future)
+- More agressive pinky stagger
+- Fix awkward tucky thumb feeling
+
 v 0.7
 - Only choc v1 (more snappy center hole)
 - Reworked center area and screws
 - Top plate included
+- Ordered at nextpcb (black matte) to test out another vendors ("interpretation of") black
 
 v 0.6:
 - Extra pinky key
