@@ -1,6 +1,6 @@
 v 0.8 (future)
 - More agressive pinky stagger
-- Fix awkward tucky thumb feeling
+- Fix awkward tucky thumb feeling: position adjusted and keycap swapped
 
 v 0.7
 - Only choc v1 (more snappy center hole)
