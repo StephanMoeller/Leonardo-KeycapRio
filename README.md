@@ -3,6 +3,7 @@ v 0.8 (future)
 - Fix case and usb cable solution
 - Surface mount mcu on bottom side
 - Produce in black core pcb
+- Tighter switch fittings
 
 v 0.7
 - Only choc v1 (more snappy center hole)
