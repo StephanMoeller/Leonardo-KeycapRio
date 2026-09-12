@@ -1,15 +1,19 @@
+v future
+- Produce in black core pcb
+
 v 0.8 (future)
 - Fix awkward tucky thumb feeling: position adjusted and keycap swapped
 - Fix case and usb cable solution
-- Surface mount mcu on bottom side
-- Produce in black core pcb
+- Surface mount mcu on back side
 - Tighter switch fittings
 
 v 0.7
 - Only choc v1 (more snappy center hole)
 - Reworked center area and screws
 - Top plate included
+- 1.6 mm pcb (1.2 mm previously) for easier soldering as the hotswap sockets' pins were taller than 1.2 mm.
 - Ordered at nextpcb (black matte) to test out another vendors ("interpretation of") black
+<img width="2048" height="1536" alt="d84MBIlz" src="https://github.com/user-attachments/assets/74f29c8d-efab-47c6-b949-e98309cc322a" />
 
 v 0.6:
 - Extra pinky key
