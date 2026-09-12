@@ -1,3 +1,4 @@
+
 v future
 - Produce in black core pcb
 
@@ -13,7 +14,7 @@ v 0.7
 - Top plate included
 - 1.6 mm pcb (1.2 mm previously) for easier soldering as the hotswap sockets' pins were taller than 1.2 mm.
 - Ordered at nextpcb (black matte) to test out another vendors ("interpretation of") black
-<img width="2048" height="1536" alt="d84MBIlz" src="https://github.com/user-attachments/assets/74f29c8d-efab-47c6-b949-e98309cc322a" />
+<img width="2048" height="1536" alt="6O7pWZk_" src="https://github.com/user-attachments/assets/16c85539-5d2e-4b9c-86da-416ee5b14d5a" />
 
 v 0.6:
 - Extra pinky key
