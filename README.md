@@ -1,7 +1,4 @@
 
-v future
-- Produce in black core pcb
-
 # v 0.8 (future)
 - Fix awkward tucky thumb feeling: position adjusted and keycap swapped
 - Fix case and usb cable solution
