@@ -2,7 +2,7 @@
 # v 0.8 (future)
 - Fix awkward tucky thumb feeling: position adjusted and keycap swapped
 - Fix case and usb cable solution
-- Surface mount mcu on back side
+- Change mcu hole-through to backside-pads. Surface mount mcu on back side 
 - Tighter switch fittings
 - Make center pcb art with segments
 - Make the diode pads smaller
