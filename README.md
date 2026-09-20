@@ -7,6 +7,8 @@ v future
 - Fix case and usb cable solution
 - Surface mount mcu on back side
 - Tighter switch fittings
+- Make center pcb art with segments
+- Order in black core
 
 
 # v 0.7
