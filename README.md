@@ -8,6 +8,7 @@ v future
 - Surface mount mcu on back side
 - Tighter switch fittings
 - Make center pcb art with segments
+- Make the diode pads smaller
 - Order in black core
 
 
