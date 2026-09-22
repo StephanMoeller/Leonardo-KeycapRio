@@ -6,6 +6,7 @@
 - Tighter switch fittings
 - Make center pcb art with segments
 - Make the diode pads smaller
+- Make the board less slippery
 - Order in black core
 
 
