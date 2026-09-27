@@ -5,7 +5,7 @@
 - Change mcu hole-through to backside-pads. Surface mount mcu on back side 
 - (DONE) Tighter switch fittings
 - Make center pcb art with segments
-- Make the diode pads smaller
+- (DONE) Make the diode pads smaller
 - Make the board less slippery
 - Order in black core
 
