@@ -3,7 +3,7 @@
 - Fix awkward tucky thumb feeling: position adjusted and keycap swapped
 - Fix case and usb cable solution
 - Change mcu hole-through to backside-pads. Surface mount mcu on back side 
-- Tighter switch fittings
+- (DONE) Tighter switch fittings
 - Make center pcb art with segments
 - Make the diode pads smaller
 - Make the board less slippery
