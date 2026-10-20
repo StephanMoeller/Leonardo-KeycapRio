@@ -1,17 +1,15 @@
 
 # v 0.8 (future)
-- Fix awkward tucky thumb feeling: position adjusted and keycap swapped
-- Fix case and usb cable solution
-- Change mcu hole-through to backside-pads. Surface mount mcu on back side 
-- (DONE) Tighter switch fittings
-- Make center pcb art with segments
-- (DONE) Make the diode pads smaller
-- (DONE) Make better room for screws in the center
-- Make the board less slippery
-- Order in black core
-
+- 1.6 mm black core pcb (pcbway), no solder mask on front, transparent solder mask on back side
+- New cpu introduced: Kee Boar from Adafruit - surface mounting on the backside
+- All routes are on the backside
+- Thumb key position adjusted (no rotation angle between thumb keys)
+- Tighter switch fittings
+- Center reworked with better room for screws
+- Diode pads a little smaller
 
 # v 0.7
+- 1.6 mm black solder mask (nextpcb)
 - Only choc v1 (more snappy center hole)
 - Reworked center area and screws
 - Top plate included
@@ -21,6 +19,7 @@
 
 
 # v 0.6:
+- 1.2 mm black solder mask (jlcpcb)
 - Extra pinky key
 - Extra thumb key
 - Adjuated screw hole positions
