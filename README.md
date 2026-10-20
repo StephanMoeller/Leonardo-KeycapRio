@@ -1,5 +1,7 @@
 
-# v 0.8 (future)
+# License: [CC BY-NC-SA 4.0](LICENSE)
+
+v 0.8 (future)
 - 1.6 mm black core pcb (pcbway), no solder mask on front, transparent solder mask on back side
 - New cpu introduced: Kee Boar from Adafruit - surface mounting on the backside
 - All routes are on the backside
