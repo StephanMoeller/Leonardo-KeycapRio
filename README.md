@@ -1,13 +1,13 @@
 
 # License: [CC BY-NC-SA 4.0](LICENSE)
 
-v 0.8 (future)
+v 0.8
 - 1.6 mm black core pcb (pcbway), no solder mask on front, transparent solder mask on back side
 - New cpu introduced: Kee Boar from Adafruit - surface mounting on the backside
 - All routes are on the backside
 - Thumb key position adjusted (no rotation angle between thumb keys)
 - Tighter switch fittings
-- Center reworked with better room for screws
+- Center reworked with better room for screws and better aestetics
 - Diode pads a little smaller
 
 # v 0.7
